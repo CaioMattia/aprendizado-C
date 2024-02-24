@@ -1,7 +1,5 @@
-//libs
 #include <stdio.h>
 
-//funcs
 void main(){
 	int soma, n1, n2;
 	printf("Primero valor: ");
