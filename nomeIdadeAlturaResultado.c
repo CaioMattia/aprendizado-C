@@ -9,7 +9,7 @@ int main(void)
 	printf("Digite idade: \n");
 	scanf("%d", &idade);
 	printf("A letra inicial do teu nome: \n");
-    scanf(" %c", &letraInicial);
+        scanf(" %c", &letraInicial);
 	printf("A tua altura: \n");
 	scanf("%f", &altura);
 	system("cls");
